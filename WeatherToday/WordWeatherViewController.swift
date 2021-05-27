@@ -8,7 +8,7 @@
 import UIKit
 
 class WordWeatherViewController: UIViewController {
-    
+
     @IBOutlet weak var wordWeathertableView: UITableView!
     
     var countries : [Country] = []
